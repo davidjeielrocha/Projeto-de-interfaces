@@ -1,7 +1,7 @@
 # Projeto de Interfaces: Atividade Ativa
 
 Este projeto é um protótipo de página web simples, funcional e bem organizado, criado usando HTML e CSS. O objetivo é praticar conceitos de design de interface e usabilidade. Usei a biblioteca [bootstrap]('https://getbootstrap.com/') para otimizar a estilização da página.
-Visualise a página de [demonstração]('https://davidjeielrocha.github.io/Projeto-de-interfaces/')
+Visualise a página de [demonstração]('https://davidjeielrocha.github.io/Projeto-de-interfaces/') no endereço: https://davidjeielrocha.github.io/Projeto-de-interfaces/
 
 ## Estrutura do Projeto
 
