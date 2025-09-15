@@ -1,31 +1,79 @@
-# my-website
+# Projeto de Interfaces: Atividade Ativa
 
-This project is a simple, functional, and well-organized web page prototype created using HTML and CSS. The goal is to practice interface design concepts and usability.
+Este projeto é um protótipo de página web simples, funcional e bem organizado, criado usando HTML e CSS. O objetivo é praticar conceitos de design de interface e usabilidade. Usei a biblioteca [bootstrap]('https://getbootstrap.com/') para otimizar a estilização da página.
 
-## Project Structure
+## Estrutura do Projeto
 
 ```
-my-website
-├── index.html        # Main HTML document
+meu-site
+├── index.html        # Documento HTML principal
 ├── css
-│   └── styles.css    # CSS styles for the webpage
+│   └── styles.css    # Estilos CSS para a página
 ├── js
-│   └── main.js       # JavaScript functionality
+│   └── main.js       # Funcionalidades JavaScript
 ├── assets
-│   └── fonts         # Custom fonts used in the project
-└── README.md         # Documentation for the project
+│   └── fonts         # Fontes personalizadas 
+│   └── img           # Imagens usadas 
+└── README.md         # Documentação 
 ```
 
-## Getting Started
+## Como Começar
 
-To run this project, simply open the `index.html` file in your web browser. 
+Para executar este projeto, basta abrir o arquivo `index.html` em seu navegador web.
 
-## Features
+## Funcionalidades
 
-- **Header Section**: Contains the title and a descriptive text.
-- **Content Section**: Includes a link, a list, a table, and a form with at least two fields (name and email).
-- **Styling**: The webpage is styled using CSS, with a defined background color, text styles, and custom fonts.
+- **Seção do Cabeçalho**: Contém o título e um texto descritivo.
+- **Seção de Conteúdo**: Inclui um link, uma lista, uma tabela e um formulário com pelo menos dois campos (nome e email).
+- **Estilização**: A página web é estilizada usando CSS, com cor de fundo definida, estilos de texto e fontes personalizadas.
 
-## Usage
+# Enunciado
 
-Feel free to modify the content and styles to suit your needs. This project serves as a foundation for creating a navigable interface.# Projeto-de-interfaces
+### **Título: 🌐 Criação de um Protótipo de Interface Navegável em HTML e CSS**
+
+### **🎯 Objetivo:**
+
+Colocar em prática os conceitos de **design de interface**, **usabilidade** e **HTML/CSS**, criando uma **página web simples, funcional e bem organizada**.
+
+### **📜 Descrição:**
+
+Você deverá desenvolver **uma página web autoral** contendo seu **nome completo**, seguindo os requisitos descritos abaixo.
+
+A entrega deverá ser feita **em formato .zip** com todos os arquivos necessários.
+
+### **🛠️ Passo a Passo**
+
+1. **Tema da Página**
+2. Escolha um tema simples (ex.: portfólio pessoal, cardápio de restaurante, evento ou produto fictício).
+3. **📄 Estrutura HTML**
+- Usar <!DOCTYPE html> no início.
+- Criar **3 seções**: Cabeçalho, Conteúdo e Rodapé.
+- Inserir um **título** e um **texto descritivo**.
+- Criar **1 link** (interno ou externo).
+- Criar **1 lista** (ordenada ou não).
+- Criar **1 tabela** (mínimo 2 colunas × 3 linhas).
+- Criar **1 formulário** com pelo menos 2 campos (ex.: nome e e-mail).
+
+4.**🎨 Estilização com CSS**
+
+- Definir cor de fundo.
+- Alterar cor e tamanho de pelo menos um texto.
+- Usar **classe** e **ID** para aplicar estilos.
+- Definir fonte personalizada.
+- Ajustar margens e espaçamentos para organização.
+
+5.**💡 Usabilidade e Interface**
+
+- Bom contraste e legibilidade.
+- Navegação clara e organizada.
+
+6.**🖊️ Identificação**
+
+- No rodapé, escreva:
+- Desenvolvido por: *Seu Nome Completo* – Projeto de Interface – IESB
+
+**7.📦 Entrega**
+
+- Compactar **HTML, CSS e imagens** em um único **.zip**.
+- Nomear o arquivo como:
+- **ProjetoInterface_NomeCompleto.zip**
